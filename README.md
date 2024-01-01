@@ -1,10 +1,7 @@
 ### Hi there 👋 I'm Hafize!
 
-- 🔭 I’m currently working on Native Mobile Application Development
-- 🌱 I’m currently learning Swift and Flutter.
-- 💬 Ask me about anything on Mobile Software Development.
+- 🔭 I’m currently working on Mobile Development
 - 📫 How to reach me: hafizegungor.com
-- 😄 Pronouns: Android lover, tech-enthusiast
 
 <!--
 **gungorhafize/gungorhafize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
